@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+.env
+*.db
+*.db.*
+*.log
+leads.db
+leads.db.*
+app.log
+__pycache__/
+*.pyc
+.DS_Store
+cloudflared.pid
+cloudflared_url.txt
